@@ -20,3 +20,9 @@ um domínio próprio;
 - O conteúdo de seu site deve seguir as diretrizes presentes neste site: [Como elaborar o currículo perfeito?](https://www.infojobs.com.br/artigos/como_elaborar_o_curr%C3%ADculo_perfeito__8533.aspx);
 - Você pode usar como base os projetos criados até o momento, bastando personalizar os mesmos;
 - Tente ser autêntico e crie algo seu!
+
+## Resultado
+
+- URL Pública: https://main--patrickmarques.netlify.app
+
+![Pagina Web](assets/img/pagina.png)
